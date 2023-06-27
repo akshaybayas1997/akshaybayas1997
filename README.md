@@ -1,4 +1,4 @@
-<h1 style="text-align: center;">
+<h1 align="center">
   <img src="https://www.gizmodo.com.au/wp-content/uploads/sites/2/2015/12/16/mcuheoyzl3keydukmeig.gif?quality=80&resize=832,468" alt="MasterHead">
 </h1>
 <h1 align="center">Hi 👋, I'm Akshay</h1>
