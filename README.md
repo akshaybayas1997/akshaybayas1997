@@ -2,7 +2,7 @@
   <img src="https://www.gizmodo.com.au/wp-content/uploads/sites/2/2015/12/16/mcuheoyzl3keydukmeig.gif?quality=80&resize=832,468" alt="MasterHead">
 </h1>
 <h1 align="center">Greetings, I'm Akshay ^-^ </h1>
-<h3 align="center">As a data science professional with 1.5 years of experience, I have gained proficiency in various tools and technologies such as SQL, Python, Tableau, and Microsoft Excel. With a strong understanding of data analysis and visualization, I possess the ability to extract meaningful insights from complex data sets. My expertise in these areas enables me to provide data-driven solutions to meet business needs.</h3>
+<h3 align="center">As a data science professional with 1.5 years of experience, I have gained proficiency in various tools and technologies such as SQL, Python, Tableau, Power BI and Microsoft Excel. With a strong understanding of data analysis and visualization, I possess the ability to extract meaningful insights from complex data sets. My expertise in these areas enables me to provide data-driven solutions to meet business needs.</h3>
 
 <p align="center">
   <img src="https://cdn.dribbble.com/users/2172077/screenshots/7111446/media/9427caeb8c1e8ee48c47adc935c77785.gif">
